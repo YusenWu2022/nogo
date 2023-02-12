@@ -1,0 +1,16 @@
+﻿  源.cpp
+c:\users\冰山战役\desktop\自走棋\自走棋\源.cpp(43): warning C4101: “j”: 未引用的局部变量
+c:\users\冰山战役\desktop\自走棋\自走棋\源.cpp(43): warning C4101: “i”: 未引用的局部变量
+c:\users\冰山战役\desktop\自走棋\自走棋\源.cpp(67): warning C4101: “j”: 未引用的局部变量
+c:\users\冰山战役\desktop\自走棋\自走棋\源.cpp(67): warning C4101: “i”: 未引用的局部变量
+c:\users\冰山战役\desktop\自走棋\自走棋\源.cpp(162): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\冰山战役\desktop\自走棋\自走棋\源.cpp(233): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\冰山战役\desktop\自走棋\自走棋\源.cpp(187): warning C4101: “q”: 未引用的局部变量
+c:\users\冰山战役\desktop\自走棋\自走棋\源.cpp(187): warning C4101: “n”: 未引用的局部变量
+c:\users\冰山战役\desktop\自走棋\自走棋\源.cpp(297): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\冰山战役\desktop\自走棋\自走棋\源.cpp(242): warning C4101: “q”: 未引用的局部变量
+c:\users\冰山战役\desktop\自走棋\自走棋\源.cpp(242): warning C4101: “n”: 未引用的局部变量
+c:\users\冰山战役\desktop\自走棋\自走棋\源.cpp(348): warning C4101: “q”: 未引用的局部变量
+c:\users\冰山战役\desktop\自走棋\自走棋\源.cpp(348): warning C4101: “n”: 未引用的局部变量
+  自走棋.vcxproj -> C:\Users\冰山战役\Desktop\自走棋\Debug\自走棋.exe
+  自走棋.vcxproj -> C:\Users\冰山战役\Desktop\自走棋\Debug\自走棋.pdb (Partial PDB)

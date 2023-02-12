@@ -1,0 +1,21 @@
+﻿  简单的电脑.cpp
+c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(26): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(26): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(26): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(26): note: 此参数用作缓冲区大小
+c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(78): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(78): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(78): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(78): note: 此参数用作缓冲区大小
+c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(136): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(136): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(136): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(136): note: 此参数用作缓冲区大小
+c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(194): warning C4101: “j”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(194): warning C4101: “i”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(253): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(327): warning C4101: “k”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(327): warning C4101: “y”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\简单的电脑\简单的电脑\简单的电脑.cpp(327): warning C4101: “x”: 未引用的局部变量
+  简单的电脑.vcxproj -> C:\Users\冰山战役\Desktop\不围棋打包\简单的电脑\Debug\简单的电脑.exe
+  简单的电脑.vcxproj -> C:\Users\冰山战役\Desktop\不围棋打包\简单的电脑\Debug\简单的电脑.pdb (Full PDB)

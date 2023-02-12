@@ -1,0 +1,6 @@
+﻿  简单算法.cpp
+c:\users\冰山战役\desktop\简单算法\简单算法\简单算法.cpp(91): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\冰山战役\desktop\简单算法\简单算法\简单算法.cpp(101): warning C4101: “y”: 未引用的局部变量
+c:\users\冰山战役\desktop\简单算法\简单算法\简单算法.cpp(101): warning C4101: “x”: 未引用的局部变量
+  简单算法.vcxproj -> C:\Users\冰山战役\Desktop\简单算法\Debug\简单算法.exe
+  简单算法.vcxproj -> C:\Users\冰山战役\Desktop\简单算法\Debug\简单算法.pdb (Full PDB)

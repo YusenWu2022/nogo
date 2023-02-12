@@ -1,0 +1,25 @@
+﻿  中等的电脑.cpp
+c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(23): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(23): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(23): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(23): note: 此参数用作缓冲区大小
+c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(89): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(89): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(89): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(89): note: 此参数用作缓冲区大小
+c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(120): warning C4101: “j”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(120): warning C4101: “i”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(157): warning C4101: “j”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(157): warning C4101: “i”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(252): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(332): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(277): warning C4101: “q”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(277): warning C4101: “n”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(452): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(452): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(452): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(452): note: 此参数用作缓冲区大小
+c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(474): warning C4101: “q”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\中等的电脑\中等的电脑\中等的电脑.cpp(474): warning C4101: “n”: 未引用的局部变量
+  中等的电脑.vcxproj -> C:\Users\冰山战役\Desktop\不围棋打包\中等的电脑\Debug\中等的电脑.exe
+  中等的电脑.vcxproj -> C:\Users\冰山战役\Desktop\不围棋打包\中等的电脑\Debug\中等的电脑.pdb (Full PDB)

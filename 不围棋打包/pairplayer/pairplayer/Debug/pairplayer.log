@@ -1,0 +1,9 @@
+﻿  pairplayer.cpp
+c:\users\冰山战役\desktop\不围棋打包\pairplayer\pairplayer\pairplayer.cpp(117): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\冰山战役\desktop\不围棋打包\pairplayer\pairplayer\pairplayer.cpp(154): warning C4002: “_T”宏的实参太多
+c:\users\冰山战役\desktop\不围棋打包\pairplayer\pairplayer\pairplayer.cpp(162): warning C4002: “_T”宏的实参太多
+c:\users\冰山战役\desktop\不围棋打包\pairplayer\pairplayer\pairplayer.cpp(127): warning C4101: “y”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\pairplayer\pairplayer\pairplayer.cpp(127): warning C4101: “x”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\pairplayer\pairplayer\pairplayer.cpp(127): warning C4101: “str”: 未引用的局部变量
+  pairplayer.vcxproj -> C:\Users\冰山战役\Desktop\不围棋打包\pairplayer\Debug\pairplayer.exe
+  pairplayer.vcxproj -> C:\Users\冰山战役\Desktop\不围棋打包\pairplayer\Debug\pairplayer.pdb (Full PDB)

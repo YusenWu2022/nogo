@@ -1,0 +1,19 @@
+﻿  人机.cpp
+c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(54): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(54): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(54): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(54): note: 此参数用作缓冲区大小
+c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(112): warning C4101: “j”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(112): warning C4101: “i”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(136): warning C4101: “j”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(136): warning C4101: “i”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(231): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(371): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(244): warning C4101: “q”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(244): warning C4101: “n”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(486): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(437): warning C4101: “q”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(437): warning C4101: “n”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋打包\冷酷的电脑\人机\人机.cpp(375): warning C4715: “imitate”: 不是所有的控件路径都返回值
+  人机.vcxproj -> C:\Users\冰山战役\Desktop\不围棋打包\冷酷的电脑\Debug\人机.exe
+  人机.vcxproj -> C:\Users\冰山战役\Desktop\不围棋打包\冷酷的电脑\Debug\人机.pdb (Full PDB)

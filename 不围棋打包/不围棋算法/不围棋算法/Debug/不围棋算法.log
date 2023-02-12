@@ -1,0 +1,7 @@
+﻿  不围棋算法.cpp
+c:\users\冰山战役\desktop\不围棋算法\不围棋算法\不围棋算法.cpp(40): warning C4101: “k”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋算法\不围棋算法\不围棋算法.cpp(129): warning C4101: “y”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋算法\不围棋算法\不围棋算法.cpp(129): warning C4101: “x”: 未引用的局部变量
+c:\users\冰山战役\desktop\不围棋算法\不围棋算法\不围棋算法.cpp(104): warning C4715: “judge”: 不是所有的控件路径都返回值
+  不围棋算法.vcxproj -> C:\Users\冰山战役\Desktop\不围棋算法\Debug\不围棋算法.exe
+  不围棋算法.vcxproj -> C:\Users\冰山战役\Desktop\不围棋算法\Debug\不围棋算法.pdb (Full PDB)
